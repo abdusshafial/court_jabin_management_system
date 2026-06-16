@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="600" viewBox="0 0 600 600">
+  <defs>
+    <linearGradient id="g1" x1="0%" x2="100%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#e6f5e6" />
+      <stop offset="100%" stop-color="#c4e8c4" />
+    </linearGradient>
+  </defs>
+  <rect width="100%" height="100%" fill="none"/>
+  <g transform="translate(300,300)">
+    <circle r="180" fill="url(#g1)" stroke="#7aa57a" stroke-width="8"/>
+    <path d="M-90,-20 L0,-120 L90,-20" fill="#fff" stroke="#2b6b2b" stroke-width="6" opacity="0.95"/>
+    <rect x="-110" y="20" width="220" height="120" rx="18" ry="18" fill="#fff" stroke="#2b6b2b" stroke-width="6" opacity="0.95"/>
+    <text x="0" y="60" text-anchor="middle" font-family="Segoe UI, Arial" font-size="26" fill="#163f1a" font-weight="700">Rangpur Court</text>
+  </g>
+</svg>
