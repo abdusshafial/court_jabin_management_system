@@ -1,1 +1,3 @@
 # court_jabin_management_system
+
+The Advocate List is available from the dashboard and stores personal and professional details, contact information, court/case information, and fee records. The due fee is calculated from the total and paid fees. The first visit to the Advocate List adds any missing advocate columns to an existing `final_list` table; the SQL setup file also includes these columns for new installations. Client List and Jabin List retain their existing fields.
